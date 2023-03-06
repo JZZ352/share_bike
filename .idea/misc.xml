@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1705" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/drawable-xxhdpi/ic_check.xml" value="0.1755" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/drawable-xxhdpi/ic_control.xml" value="0.1975" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/chart.xml" value="0.32890625" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/check_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/control_fragment.xml" value="0.22" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/database_fragment.xml" value="0.26640625" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/dialog_date.xml" value="0.2828125" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/dialog_light.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/dialog_rs.xml" value="0.2828125" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/set_thread_value.xml" value="0.2828125" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/setting_fragment.xml" value="0.2828125" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/layout/table_item.xml" value="0.2828125" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26785714285714285" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.10666666666666667" />
+        <entry key="..\:/AndroidCode/ShareBike/app/src/main/res/mipmap/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable-xxhdpi/check_drawable.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable-xxhdpi/control_drawable.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable-xxhdpi/database_drawable.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable-xxhdpi/ic_home_black_24dp.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable-xxhdpi/set_drawable.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/allback_border_header.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/btnborder.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/btnborder_false.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/comtainerborderbakbak.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/edge.xml" value="0.2" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/ic___.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/ic_control.xml" value="0.168" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.243" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/seekbar.xml" value="0.1635" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/selector_radio.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/shape_nor.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/shape_spec.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/spinner_style.xml" value="0.1635" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/switch_ios_thumb.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/switch_ios_track_off.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/switch_ios_track_on.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/switch_ios_track_selector.xml" value="0.197" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/drawable/textview_border.xml" value="0.1635" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/activity_check.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/activity_control.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/activity_data_base_show.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/activity_set.xml" value="0.264" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/chart.xml" value="0.2703125" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/check_fragment.xml" value="0.264" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/control_fragment.xml" value="0.264" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/database_fragment.xml" value="0.264" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/dialog_date.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/dialog_light.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/set_thread_value.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/setting_fragment.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/table_item.xml" value="0.2703125" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/layout/test.xml" value="0.27395833333333336" />
+        <entry key="..\:/Code/Androi project/FarmingSystemApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26851851851851855" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable-xxhdpi/ic_check.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable-xxhdpi/ic_control.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/allback_border_header.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/background.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/blue_btn.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/btnborder_false.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/comtainerborderbakbak.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/ic_control.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/ic_database.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/seekbar.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/selector_radio.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/shape_nor.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/shape_spec.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/spinner_style.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/switch_ios_thumb.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/switch_ios_track_off.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/switch_ios_track_on.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/switch_ios_track_selector.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/drawable/textview_border.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/layout-normal/activity_main.xml" value="0.264" />
+        <entry key="..\:/FSApp/app/src/main/res/layout-normal/chart.xml" value="0.4109375" />
+        <entry key="..\:/FSApp/app/src/main/res/layout-normal/check_fragment.xml" value="0.4109375" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/chart.xml" value="0.27395833333333336" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/check_fragment.xml" value="0.4" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/control_fragment.xml" value="0.4" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/database_fragment.xml" value="0.4" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/dialog_date.xml" value="0.27395833333333336" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/dialog_light.xml" value="0.27395833333333336" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/set_thread_value.xml" value="0.27395833333333336" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/setting_fragment.xml" value="0.27395833333333336" />
+        <entry key="..\:/FSApp/app/src/main/res/layout/table_item.xml" value="0.27395833333333336" />
+        <entry key="..\:/FSApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.153" />
+        <entry key="..\:/FSApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.153" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/drawable-xxhdpi/switch_ios_track_selector.xml" value="0.15" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/chart.xml" value="0.2057721139430285" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/check_fragment.xml" value="0.22" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/control_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/database_fragment.xml" value="0.22" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/dialog_date.xml" value="0.22" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/dialog_light.xml" value="0.3333333333333333" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/set_thread_value.xml" value="0.2057721139430285" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/setting_fragment.xml" value="0.2057721139430285" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/layout/table_item.xml" value="0.2057721139430285" />
+        <entry key="..\:/app/FSApp(1)/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3111111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

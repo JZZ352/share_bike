@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">共享电动车管理系统</string>
+    <string name="check">监测</string>
+    <string name="control">控制</string>
+    <string name="databaseShow">数据库展示</string>
+    <string name="setting">设置</string>
+    <string name="ip">192.168.38.56</string>
+    <string name="title_header">主界面</string>
+    <string name="tip_1">一键停车即立刻停止全部工作，结束用车</string>
+    <string name="tip_2">可调灯替代电机的转速</string>
+    <string name="tip_3">照明灯是当光照强度过低时打开，温差的初始温度设为25</string>
+</resources>
